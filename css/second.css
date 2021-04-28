@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+*{
+	background-color:#fff;
+}
+
+
+div#wrap{
+	margin: 0px;
+	padding: 0px;
+}
+
+section#kaneisan{
+	padding: 20px 0 20px 0;
+	width: 800px;
+	border: #111 solid 5px;
+	margin: 20px auto 20px auto;
+}
+
+p{
+	padding: 30px
+}
+
+nav#ikemen{
+	text-align: center;
+}
+
+div#copyrights{
+	text-align: center;
+}
